@@ -1,0 +1,8 @@
+.bdy{
+    padding: 0;
+    margin: 0;
+    height: 170vh;
+    background: linear-gradient(to left,#ddd6f3 0%,#faaca8 100%);
+    background-repeat: no-repeat;
+    
+}
